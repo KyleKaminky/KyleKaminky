@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KyleKaminky
-- 👀 I’m interested in creating aesthetically pleasing visualizations and animations that inspire others to learn, create, and admire
-- 🌱 I’m currently learning Processing
+- 👀 I’m interested in creating aesthetically pleasing visualizations and animations that inspire others to learn, create, and admire.
+- 🌱 I’m currently learning node.js and GraphQL
 - 💞️ I’m looking to collaborate on visualizations/animations, RF stuff, software-define radio and web development projects.
 - 📫 How to reach me - kyle.kaminky@gmail.com
 
