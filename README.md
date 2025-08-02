@@ -2,6 +2,7 @@
 - 👀 I’m interested in ML and other cool programming stuff.
 - 🌱 I'm currently working on a website that does a financial checkup, along with learning about AutoML.
 - 📫 How to reach me - kyle.kaminky@gmail.com
+- 🌐 [Here](www.linkedin.com/in/kyle-kaminky) is my LinkedIn, too.
 
 <!---
 KyleKaminky/KyleKaminky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
